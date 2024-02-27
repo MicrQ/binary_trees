@@ -41,6 +41,10 @@ for <b>6-binary_tree_preorder.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 6-main.c 6-binary_tree_preorder.c 0-binary_tree_node.c -o 6-pre`<br>
 and run the executable `./6-pre`.
 
+for <b>7-binary_tree_inorder.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 7-main.c 7-binary_tree_inorder.c 0-binary_tree_node.c -o 7-in`<br>
+and run the executable `./7-in`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
