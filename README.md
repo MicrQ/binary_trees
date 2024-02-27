@@ -49,6 +49,10 @@ for <b>8-binary_tree_postorder.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 8-main.c 8-binary_tree_postorder.c 0-binary_tree_node.c -o 8-post`<br>
 and run the executable `./8-post`.
 
+for <b>9-binary_tree_height.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 9-binary_tree_height.c 9-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 9-height`<br>
+and run the executable `./9-height`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
