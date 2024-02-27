@@ -2,6 +2,7 @@
 
 /**
  * binary_tree_size - a function that measures the size of a tree.
+ * @tree: the root of the tree
  * Return: the size.
  */
 
