@@ -54,6 +54,11 @@ for <b>9-binary_tree_height.c</b> use:<br>
 and run the executable `./9-height`.
 
 
+for <b>10-binary_tree_depth.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 10-binary_tree_depth.c 10-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 10-depth`<br>
+and run the executable `./10-depth`.
+
+
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
 Thanks to ALX!
