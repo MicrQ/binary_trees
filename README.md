@@ -19,6 +19,8 @@ for <b>2-binary_tree_insert_right.c</b> use `gcc -Wall -Wextra -Werror -pedantic
 
 for <b>3-binary_tree_delete.c</b> use `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 3-main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 3-del` and run the executable `./3-del`. if <b>valgrind</b> is installed on your system, run `valgrind ./3-del` to see there is no memory leak.
 
+for <b>4-binary_tree_is_leaf.c</b> use `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 4-binary_tree_is_leaf.c 4-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 4-leaf` and run the executable `./4-leaf`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
