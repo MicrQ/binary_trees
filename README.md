@@ -21,6 +21,8 @@ for <b>3-binary_tree_delete.c</b> use `gcc -Wall -Wextra -Werror -pedantic binar
 
 for <b>4-binary_tree_is_leaf.c</b> use `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 4-binary_tree_is_leaf.c 4-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 4-leaf` and run the executable `./4-leaf`.
 
+for <b>5-binary_tree_is_root.c</b> use `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 5-binary_tree_is_root.c 5-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 5-root` and run the executable `./5-root`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
