@@ -62,6 +62,10 @@ for <b>11-binary_tree_size.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 11-binary_tree_size.c 11-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 11-size`<br>
 and run the executable `./11-size`.
 
+for <b>12-binary_tree_leaves.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 12-binary_tree_leaves.c 12-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 12-leaves`<br>
+and run the executable `./12-leaves`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
