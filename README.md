@@ -74,6 +74,10 @@ for <b>14-binary_tree_balance.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 14-binary_tree_balance.c 14-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c 1-binary_tree_insert_left.c -o 14-balance`<br>
 and run the executable `./14-balance`.
 
+for <b>15-binary_tree_is_full.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 15-binary_tree_is_full.c 15-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 15-full`<br>
+and run the executable `./15-full`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
