@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 size_t depth(const binary_tree_t *tree);
-binary_tree_t *find_LCA(const binary_tree_t *f, const binary_tree_t *s, size_t df, size_t ds);
+binary_tree_t *find_LCA(const binary_tree_t *f,
+const binary_tree_t *s, size_t df, size_t ds);
 
 /**
  * binary_trees_ancestor - a function that finds the lowest common ancestor of
@@ -11,7 +12,8 @@ binary_tree_t *find_LCA(const binary_tree_t *f, const binary_tree_t *s, size_t d
  * Return: the address of the ancestor or NULL if not found.
  */
 
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second)
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
+const binary_tree_t *second)
 {
 	size_t fd = depth(first), sd = depth(second);
 
@@ -28,7 +30,8 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tr
  * Return: the LCA or NULL.
  */
 
-binary_tree_t *find_LCA(const binary_tree_t *f, const binary_tree_t *s, size_t df, size_t ds)
+binary_tree_t *find_LCA(const binary_tree_t *f, const binary_tree_t *s,
+size_t df, size_t ds)
 {
 	if (!f || !s)
 		return (NULL);
