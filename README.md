@@ -88,6 +88,10 @@ for <b>18-binary_tree_uncle.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle`<br>
 and run the executable `./18-uncle`.
 
+for <b>100-binary_trees_ancestor.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 100-main.c 100-binary_trees_ancestor.c 0-binary_tree_node.c -o 100-ancestor`<br>
+and run the executable `./100-ancestor`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
