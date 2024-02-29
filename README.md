@@ -79,6 +79,12 @@ for <b>15-binary_tree_is_full.c</b> use:<br>
 and run the executable `./15-full`.
 
 
+
+for <b>17-binary_tree_sibling.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 17-main.c 17-binary_tree_sibling.c 0-binary_tree_node.c -o 17-sibling`<br>
+and run the executable `./17-sibling`.
+
+
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
 Thanks to ALX!
