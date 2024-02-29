@@ -84,6 +84,10 @@ for <b>17-binary_tree_sibling.c</b> use:<br>
 `gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 17-main.c 17-binary_tree_sibling.c 0-binary_tree_node.c -o 17-sibling`<br>
 and run the executable `./17-sibling`.
 
+for <b>18-binary_tree_uncle.c</b> use:<br>
+`gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle`<br>
+and run the executable `./18-uncle`.
+
 
 This Project helped me master on tree data structures. Throughout the entire project, I've been enjoying the process.
 
